@@ -72,7 +72,7 @@ img {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
   /* Pulsación sutil */
-  animation: pulse 1.5s ease-in-out infinite;
+  animation: pulse 3.5s ease-in-out infinite;
 }
 
 img:hover {
