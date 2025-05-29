@@ -1,4 +1,4 @@
-const totalImagenes = 9; // Cambia este número si agregas más imágenes
+const totalImagenes = 17; // Cambia este número si agregas más imágenes
 const key = "fotoActual";
 
 // Obtener y actualizar el índice
